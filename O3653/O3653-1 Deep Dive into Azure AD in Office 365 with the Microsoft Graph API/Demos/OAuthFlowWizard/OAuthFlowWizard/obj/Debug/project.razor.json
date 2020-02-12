@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/ac/repos/ac-TrainingContent/Archive/O3653/O3653-1 Deep Dive into Azure AD in Office 365 with the Microsoft Graph API/Demos/OAuthFlowWizard/OAuthFlowWizard/OAuthFlowWizard.csproj",
+  "TargetFramework": "v4.5.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
