@@ -1,0 +1,5 @@
+target 'O365-Files-App' do
+  pod 'ADALiOS'
+  pod 'orc'
+  pod 'MSGraphSDK'
+ end
