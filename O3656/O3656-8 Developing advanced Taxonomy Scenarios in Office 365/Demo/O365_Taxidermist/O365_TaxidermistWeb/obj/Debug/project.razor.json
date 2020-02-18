@@ -1,0 +1,19 @@
+{
+  "FilePath": "/Users/ac/repos/ac-TrainingContent-Archive/O3656/O3656-8 Developing advanced Taxonomy Scenarios in Office 365/Demo/O365_Taxidermist/O365_TaxidermistWeb/O365_TaxidermistWeb.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

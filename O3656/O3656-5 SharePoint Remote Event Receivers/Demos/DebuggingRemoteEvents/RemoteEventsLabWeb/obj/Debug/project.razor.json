@@ -1,0 +1,19 @@
+{
+  "FilePath": "/Users/ac/repos/ac-TrainingContent-Archive/O3656/O3656-5 SharePoint Remote Event Receivers/Demos/DebuggingRemoteEvents/RemoteEventsLabWeb/RemoteEventsLabWeb.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
